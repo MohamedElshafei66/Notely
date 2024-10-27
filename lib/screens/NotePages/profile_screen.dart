@@ -1,7 +1,7 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:notes/provider/user_data.dart';
+import 'package:notes/provider/user_provider..dart';
 import 'package:notes/screens/FolderPages/home_screen.dart';
 import 'package:notes/shared/AppSized.dart';
 import 'package:notes/shared/AppString.dart';

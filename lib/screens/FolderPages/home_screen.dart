@@ -3,7 +3,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:notes/core/utils/image_Manger.dart';
-import 'package:notes/provider/user_data.dart';
+import 'package:notes/provider/user_provider..dart';
 import 'package:notes/screens/FolderPages/addFolder.dart';
 import 'package:notes/screens/FolderPages/editFolder.dart';
 import 'package:notes/screens/NotePages/profile_screen.dart';

@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 import 'package:provider/provider.dart';
-import '../provider/user_data.dart';
+import '../provider/user_provider..dart';
 import '../screens/AuthPages/aboutApp.dart';
 import '../screens/AuthPages/login_screen.dart';
 import '../shared/AppColor.dart';
