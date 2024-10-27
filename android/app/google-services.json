@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1032199481475",
+    "project_id": "notely-18f04",
+    "storage_bucket": "notely-18f04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032199481475:android:c25c33323705a7c77f13b6",
+        "android_client_info": {
+          "package_name": "com.example.notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgcLpeT9xDoei4kfq-68UVRkRd0L6BaDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
