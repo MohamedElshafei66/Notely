@@ -1,16 +1,36 @@
-# notes
+# Notely App
 
-A new Flutter project.
+Notely is a user-friendly notes management app designed to help you organize your ideas, tasks, and projects. With Notely, you can create accounts, manage folders, and write, edit, or delete notes in each folder. Perfect for staying productive and organized!
+
+---
+
+## Features
+
+- **Account Management**:
+  - Sign up for a new account.
+  - Log in with your registered account credentials.
+
+- **Folder Management**:
+  - Create folders to categorize your notes.
+  - Edit folder names and details.
+  - Delete folders when they are no longer needed.
+
+- **Note Management**:
+  - Create notes within specific folders.
+  - Edit existing notes to update or correct content.
+  - Delete notes when they are no longer needed.
+
+---
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Follow these steps to set up and run the Notely app:
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Ensure you have the following installed:
+- [Flutter SDK](https://flutter.dev/docs/get-started/install): The framework required to build and run the app.
+- **Dart SDK**: Included with Flutter for writing and compiling Dart code.
+- [Android Studio](https://developer.android.com/studio) or [Visual Studio Code](https://code.visualstudio.com/): For running the app on emulators or physical devices.
+- A physical or virtual device (e.g., Android Emulator or iOS Simulator).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
